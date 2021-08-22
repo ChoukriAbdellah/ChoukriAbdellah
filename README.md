@@ -1,6 +1,6 @@
 ![](https://i.imgur.com/MWAiX5E.jpg)
 
-I'm Abdellah  and I’m a software and web developer from Montpellier. I really enjoy learning languages and frameworks like Angular, NodeJs, Symfony.
+I'm Abdellah  and I’m a software and web developer from Montpellier. I really enjoy learning languages and frameworks like Angular, NodeJs and Symfony.
  
 
 
